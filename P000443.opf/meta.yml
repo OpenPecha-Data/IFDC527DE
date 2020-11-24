@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2EE7
   title: ཐར་པ་ཆེན་པོའི་མདོ།（སོག་ཡིག）
-  volume: ''
+  volume:
+    bc3d75f202894995918fc2bddab2e704:
+      image_group_id: I1KG16882
+      title: Volume 1 of thar pa chen po'i mdo/（sog yig）
+      volume_number: 1
+      total_pages: 242
   author: ''
+ebook_metadata:
+  title: ཐར་པ་ཆེན་པོའི་མདོ།（སོག་ཡིག）
+  author: ''
+  sku: P000443
+  cover: cover.jpg
+  layers:
+  - pagination
